@@ -3,5 +3,6 @@ public class Test {
         System.out.println("MERHABA");
         System.out.println("MERHABA");
         System.out.println("DENEME");
+        System.out.println("Selam");
     }
 }
